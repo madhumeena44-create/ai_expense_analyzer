@@ -225,9 +225,3 @@ class FinancialHealthCard extends StatelessWidget {
     );
   }
 }
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/madhumeena44-create/ai_expense_analyzer.git
-git push -u origin main
